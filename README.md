@@ -6,7 +6,7 @@ This project allows you to preprocess and analyze WhatsApp chat data using Pytho
 Check out the [WhatsApp Chat Analyzer app](https://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/) to see a working example.
 
 Live link-
-https://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/
+http://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/
 
 ## Features
 - Data cleaning using regular expressions  
