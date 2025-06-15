@@ -1,0 +1,33 @@
+```markdown
+# filepath: c:\Users\KIIT\Desktop\whatsapp-chat-analyzer\README.md
+# WhatsApp Chat Analyzer
+
+This project allows you to preprocess and analyze WhatsApp chat data using Python. It provides functionalities to clean the chat data, split the messages by user and date/time, and generate various statistics about chat usage.
+
+## Features
+- Preliminary data cleaning using regular expressions
+- Splitting messages into user name and message text
+- Statistics on messages, words, media usage, links, and more
+- Timeline generation for daily and monthly trends
+- Most common words extraction with stop-word removal
+- Generates WordCloud images for message summaries
+
+## Requirements
+- Python 3.x  
+- pandas  
+- wordcloud  
+- urlextract  
+- emoji  
+
+Install these via:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+1. Make sure you have a WhatsApp chat file (exported as text).  
+2. Use the `preprocessor.py` script to clean and split your data:
+   ```python
+   from preprocessor import preprocess
+
+   with open('your_chat_file.txt', 'r', encoding='utf

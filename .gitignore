@@ -1,0 +1,32 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment variables (if used later)
+.env
+
+# Ignore VS Code settings (if you create .vscode/)
+.vscode/
+
+# Ignore Streamlit cache and configuration files
+.streamlit/
+
+# Ignore build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary/backup files
+*.log
+*.tmp
+*.bak
+*.swp
