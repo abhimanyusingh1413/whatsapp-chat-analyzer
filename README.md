@@ -3,7 +3,7 @@
 This project allows you to preprocess and analyze WhatsApp chat data using Python. It provides functionalities to clean the chat data, split the messages by user and date/time, and generate various statistics about chat usage.
 
 ## Live Demo
-Check out the [WhatsApp Chat Analyzer app](https://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/) to see a working example.
+Check out the [WhatsApp Chat Analyzer app](http://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/) to see a working example.
 
 Live link-
 http://abhimanyusingh1413-whatsapp-chat-analyzer-app-svuzap.streamlit.app/
